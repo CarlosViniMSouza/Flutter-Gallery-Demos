@@ -1,5 +1,5 @@
 git add -A
-git commit -m "autogit.sh -> add"
+git commit -m "banner.dart -> add"
 git push
 git status
 exit
